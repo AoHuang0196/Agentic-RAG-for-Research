@@ -1,5 +1,3 @@
-::: {align="center"}
-
 # 🚀 Production RAG Agent
 
 ### 面向文档知识问答的检索增强生成平台
@@ -23,11 +21,6 @@
 ![DeepSeek](https://img.shields.io/badge/LLM-DeepSeek--V3-4A6CF7)
 ![BGE-M3](https://img.shields.io/badge/Embedding-BGE--M3-7B61FF)
 
-```{=html}
-</p>
-```
-
-:::
 
 ---
 
