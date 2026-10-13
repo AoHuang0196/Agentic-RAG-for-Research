@@ -1,5 +1,5 @@
 ::: {align="center"}
-# 🚀 Agentic RAG for Research
+# 🚀 Production RAG Agent
 
 ### 面向文档知识问答的检索增强生成平台
 
