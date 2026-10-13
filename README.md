@@ -7,9 +7,6 @@
 问答。模型服务通过环境变量配置，当前使用 **DeepSeek-V3**
 作为大语言模型、**BGE-M3** 作为文本向量模型。
 
-```{=html}
-<p>
-```
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi)
