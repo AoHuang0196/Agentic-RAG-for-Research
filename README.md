@@ -270,8 +270,8 @@ npm run dev
 
 ---
 
-  Web 前端           http://localhost:3000
-  后端 API           http://localhost:8000
+  Web 前端           http://localhost:3000 
+  后端 API           http://localhost:8000 
   Swagger 接口文档   http://localhost:8000/docs
 
 若实际端口在环境配置或 Docker Compose 文件中发生变化，请以对应配置为准。
