@@ -218,8 +218,8 @@ embedding，最后将相关数据写入存储层并建立检索索引。实际�
 ### 1. 获取项目代码
 
 ```bash
-git clone https://github.com/rounakkumarsah/Production-RAG-Agent.git
-cd Production-RAG-Agent
+git clone https://github.com/AoHuang0196/Agentic-RAG-for-Research.git
+cd Agentic-RAG-for-Research
 ```
 
 ### 2. 配置环境变量
