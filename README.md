@@ -278,7 +278,7 @@ npm run dev
 ## 目录结构
 
 ```text
-Production-RAG-Agent/
+Agentic-RAG-for-Research/
 ├── app/                       # 前端应用页面
 ├── backend/
 │   ├── app/                   # 后端应用入口及核心逻辑
