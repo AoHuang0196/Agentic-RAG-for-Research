@@ -1,4 +1,4 @@
-# 🚀 Production RAG Agent
+# 🚀 Agentic RAG for Research
 
 ### 面向文档知识问答的检索增强生成平台
 
